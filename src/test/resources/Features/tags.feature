@@ -46,7 +46,7 @@ Feature: Title of your feature
     
 
    @tag1
-  Scenario Outline: Title of your scenario outline 
+  Scenario Outline: Title of your scenario4 outline 
     Given I want to write a step with "<name>" 
     When I check for the "<value>"  
     Then I verify the "<status>"  

@@ -2,7 +2,7 @@
 
 Feature: Login to application
 
-  @tag1
+  @tag2
   Scenario: verify user able to login in to sause application with valid credentials
     Given user navigates to loginpage    
     When user enter valid username and password
